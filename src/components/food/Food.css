@@ -1,0 +1,37 @@
+.food{
+    margin-top: 221px;
+}
+.food__wrapper{
+    text-align: center;
+}
+.food__title{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: rob;
+    color: #DC780B;
+    margin-bottom: 12px;
+}
+.food__subtitle{
+    font-size: 31px;
+    font-weight: 700;
+    font-family: phil;
+    color: #000;
+    margin-bottom: 23px;
+}
+.food__desc{
+    font-size: 16px;
+    font-family: rob;
+    color: #000;
+    max-width: 750px;
+    margin: 0 auto;
+    margin-bottom: 73px;
+}
+.second img{
+    margin-bottom: 41px;
+}
+.food__inf{
+    max-width: 506px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
